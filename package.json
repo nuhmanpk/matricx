@@ -1,6 +1,6 @@
 {
   "name": "matricx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Matricx — full-width responsive TUI system metrics (CPU, memory, network, processes)",
   "type": "module",
   "bin": {

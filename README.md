@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nuhmanpk/matricx/main/assets/logo.png" alt="Matricx Logo" width="120"/>
+  <img src="https://github.com/nuhmanpk/matricx/blob/main/assets/logo.png?raw=true" alt="Matricx Logo" width="120"/>
 </p>
 
 <h1 align="center">Matricx</h1>
@@ -12,6 +12,9 @@
   <a href="https://github.com/nuhmanpk/matricx/blob/main/LICENSE"><img src="https://img.shields.io/github/license/nuhmanpk/matricx" alt="license"></a>
 </p>
 
+```bash
+npx matricx -y
+```
 ---
 
 ## 🚀 What is Matricx?
@@ -47,8 +50,4 @@ npx matricx -y
 
 <p align="center"> <img src="https://github.com/nuhmanpk/matricx/blob/main/assets/demo.png?raw=true" alt="Matricx Screenshot"/> </p>
 
-GitHub: github.com/nuhmanpk/matricx
-
-NPM: npmjs.com/package/matricx
-
-Issues: Report a bug
+Made with ❤️ by [Nuhman](https://github.com/nuhmanpk). Happy Coding 🚀
