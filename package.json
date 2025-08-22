@@ -1,0 +1,27 @@
+{
+  "name": "matricx",
+  "version": "0.1.0",
+  "description": "Matricx — full-width responsive TUI system metrics (CPU, memory, network, processes)",
+  "type": "module",
+  "bin": {
+    "matricx": "./bin/matricx.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "bin/"
+  ],
+  "keywords": ["tui", "monitor", "metrics", "cli", "matricx"],
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.0",
+    "pretty-bytes": "^6.0.0",
+    "systeminformation": "^5.12.0"
+  },
+  "scripts": {
+    "start": "node ./bin/matricx.js",
+    "test": "node --version"
+  }
+}
